@@ -13,7 +13,7 @@ step2:-
 Trained the Model with these photos 
 
 step3:-
-Identify these photos using OPENCV
+Identify these photos using  OPENCV
 
 
 NOTE:- PLEASE ATTACH WEBCAM 
